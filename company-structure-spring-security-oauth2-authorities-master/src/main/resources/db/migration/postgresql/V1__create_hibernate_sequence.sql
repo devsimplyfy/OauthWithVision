@@ -1,0 +1,1 @@
+create table hibernate_sequence(id bigint(100),next_val bigint(100));
